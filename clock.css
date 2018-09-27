@@ -1,0 +1,25 @@
+body {
+	background-color: #D8D5DA;
+}
+
+#time {
+	border: 2px solid;
+	margin: 400px 30px 200px 30px;
+	height: 200px;
+	width: 55%;
+	font-size: 80px;
+	text-align: center;
+	background-color: #D8D5DA;
+	font-family: 'Orbitron', sans-serif;
+	
+
+
+}
+
+#wrapper{
+	border: 2px solid yellow;
+	margin: 90px auto;
+	height: 600px;
+	width: 80%;
+	
+}
