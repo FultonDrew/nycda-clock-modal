@@ -42,13 +42,17 @@
 
 .navbar ul li{
  	display: inline-block;
-  	margin: 10px 30px;
+  	margin: 10px 50px;
+  	border-style: solid;
+  	border: 2px solid black;
+  	box-shadow: 2px 3px 2px;
  	
 }
 
 .navbar ul li a{
 		text-decoration: none;
 		font-color: black;
+		
 }
 
 .body {
