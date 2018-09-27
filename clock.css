@@ -3,7 +3,7 @@ body {
 }
 
 #time {
-	border: 2px solid;
+	border: 2px solid white;
 	margin: 400px 30px 200px 30px;
 	height: 200px;
 	width: 55%;
@@ -11,15 +11,16 @@ body {
 	text-align: center;
 	background-color: #D8D5DA;
 	font-family: 'Orbitron', sans-serif;
+	box-shadow: 2px 2px 5px;
 	
 
 
 }
 
 #wrapper{
-	border: 2px solid yellow;
+	border: 3px solid white;
 	margin: 90px auto;
 	height: 600px;
 	width: 80%;
-	
+	box-shadow: 2px 2px 5px;
 }
